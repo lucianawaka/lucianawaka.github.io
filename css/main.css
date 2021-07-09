@@ -1,0 +1,26 @@
+body{
+background:#f2f3f6
+}
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: gray;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
+.card
+{
+    border-radius: 100%;
+}
